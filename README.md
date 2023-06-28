@@ -1,9 +1,9 @@
 ![3](https://github.com/ASR5-BRO/ASR5-BRO/assets/79582208/d8c6f3ab-a027-42dc-8031-219bcda0183d)
-<h3 style="text-align: center;">Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Engaging Web Experiences</h3>
+<h3 style="text-align: center">Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Engaging Web Experiences</h3>
 
 <hr>
 
-<div id="badges">
+<div id="badges" style="text-align: center">
   <a href="https://www.linkedin.com/in/aser-ahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,12 +24,15 @@ of software systems. Proficient in various platforms, languages, and embedded sy
 cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well
 as collaborate as part of a productive team.
 
+<hr>
+
 👨‍💻Experience:
 
 1-Maintained software products including programs, webpages, and databases
 2-Performed software testing provided 24/7 support to clients and developed plans for future software
 development
 
+<hr>
 
 🛠Language & Tools:
 <div>
@@ -42,6 +45,8 @@ development
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 
-  👨‍🎓My States:
+<hr>
+
+👨‍🎓My States:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ASR5-BRO&theme=dark&border_radius=4.4)](https://git.io/streak-stats)

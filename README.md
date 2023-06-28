@@ -13,7 +13,7 @@ Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Enga
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<hr>
 🚀About Me:
 
 Experienced Software Developer is adept in bringing forth expertise in the design, installation, testing, and maintenance

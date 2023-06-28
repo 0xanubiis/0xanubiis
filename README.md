@@ -38,3 +38,8 @@ development
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+
+  My States:
+  
+  (https://streak-stats.demolab.com/?user=ASR5-BRO)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ASR5-BRO&theme=dark&border_radius=4.4)](https://git.io/streak-stats)

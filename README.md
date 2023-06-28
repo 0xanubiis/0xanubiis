@@ -2,7 +2,7 @@
 Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Engaging Web Experiences
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/aser-ahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">

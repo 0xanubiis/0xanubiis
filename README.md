@@ -5,13 +5,15 @@ Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Enga
   <a href="https://www.linkedin.com/in/aser-ahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCkVcVqSr2uUqmm7J7UEFxog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/codewithastro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+https://img.shields.io/github/gist/stars/:gistId
+
 
 Experienced Software Developer is adept in bringing forth expertise in the design, installation, testing, and maintenance
 of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest

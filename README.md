@@ -54,4 +54,4 @@ development
 
 👨‍🎓My States:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ASR5-BRO&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithastro&theme=dark&border_radius=4.4)](https://git.io/streak-stats)

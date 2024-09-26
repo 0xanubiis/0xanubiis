@@ -1,5 +1,5 @@
-![3](https://github.com/ASR5-BRO/ASR5-BRO/assets/79582208/d8c6f3ab-a027-42dc-8031-219bcda0183d)
-<h3 style="text-align: center">Hello, I am Aser Ahmed  Front-End Developer 🚀| Transforming Designs into Engaging Web Experiences</h3>
+![3](https://pbs.twimg.com/profile_banners/1641833338259349504/1721640113/1500x500)
+<h3 style="text-align: center">Hello, I am Aser Ahmed Security Researcher | OSINT | Content Writer | Digital Forensics | CTF Player @hackthebox_eu | Penetration Tester | Bug Bounty Hunter @Hacker0x01 </h3>
 
 <hr>
 
@@ -10,10 +10,10 @@
   <a href="https://www.youtube.com/channel/UCkVcVqSr2uUqmm7J7UEFxog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/codewithastro">
+  <a href="https://twitter.com/0xanubiis">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.instagram.com/codewithastro/">
+    <a href="https://www.instagram.com/0xanubis/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

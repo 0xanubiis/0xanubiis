@@ -1,5 +1,5 @@
 ![3](https://pbs.twimg.com/profile_banners/1641833338259349504/1721640113/1500x500)
-<h3 style="text-align: center">Hello, I am Aser Ahmed Security Researcher | OSINT | Content Writer | Digital Forensics | CTF Player @hackthebox_eu | Penetration Tester | Bug Bounty Hunter @Hacker0x01 </h3>
+<h3 style="text-align: center">Hello, I am Aser Ahmed Penetration Tester / Bug Bounty Hunter</h3>
 
 <hr>
 

@@ -34,10 +34,15 @@ When I'm not hunting for bugs, you can find me contributing to open-source proje
 
 👨‍💻Experience:
 
-1-Maintained software products including programs, webpages, and databases
+1-Conducted comprehensive penetration tests on web applications, mobile applications, and network infrastructures, identifying vulnerabilities and providing actionable remediation strategies.
 
-2-Performed software testing provided 24/7 support to clients and developed plans for future software
-development
+2-Developed detailed reports for clients, outlining findings, risk levels, and prioritized recommendations to enhance security posture.
+
+3-Collaborated with development teams to integrate security practices into the software development lifecycle, improving overall code quality and security awareness.
+
+4-Executed social engineering assessments to test organizational resilience against phishing and other human-centric attacks.
+
+5-Assisted in the creation and delivery of training workshops for internal teams, promoting best practices in cybersecurity and secure coding techniques.
 
 <hr>
 

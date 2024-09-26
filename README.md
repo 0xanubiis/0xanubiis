@@ -22,10 +22,13 @@
 
 🚀About Me:
 
-Experienced Software Developer is adept in bringing forth expertise in the design, installation, testing, and maintenance
-of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest
-cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well
-as collaborate as part of a productive team.
+I am a dedicated bug hunter and penetration tester with over three years of experience in identifying and mitigating security vulnerabilities across diverse applications and systems. My passion for cybersecurity drives me to stay ahead of the curve in an ever-evolving landscape, where I employ a combination of manual testing and automated tools to uncover potential threats.
+
+Throughout my career, I have collaborated with development teams to enhance security protocols, ensuring robust defenses against malicious attacks. My expertise spans web applications, APIs, and network infrastructures, allowing me to deliver comprehensive security assessments that provide actionable insights.
+
+I thrive in challenging environments and am committed to continuous learning, regularly participating in industry conferences and training sessions. My goal is not only to protect systems but also to educate teams on best practices, fostering a culture of security awareness.
+
+When I'm not hunting for bugs, you can find me contributing to open-source projects or sharing knowledge through workshops and online forums. I’m excited to connect with like-minded professionals and explore new opportunities in the cybersecurity field!
 
 <hr>
 

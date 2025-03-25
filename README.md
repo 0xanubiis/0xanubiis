@@ -65,4 +65,4 @@ When I'm not hunting for bugs, you can find me contributing to open-source proje
 
 👨‍🎓My States:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xanubiis&theme=dark&locale=ar)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xanubiis&theme=dark&locale=ar" alt="GitHub Streak" /></a>

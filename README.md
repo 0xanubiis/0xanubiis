@@ -1,5 +1,3 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=119697302593312134" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
-<br>
 <h1 align="center">Hi 👋, I'm Aser Ahmed</h1>
 <h3 align="center">Security Researcher | OSINT | Content Writer | Digital Forensics | CTF Player @hackthebox_eu | Penetration Tester | Bug Bounty Hunter @Hacker0x01</h3>
 

@@ -1,68 +1,50 @@
-<img src=https://i.pinimg.com/736x/6f/34/f7/6f34f711da1b9bd58b27f4179ae58ed5.jpg>
-<h3 style="text-align: center">Hello, I am Aser Ahmed Penetration Tester / Bug Bounty Hunter</h3>
+<!-- Profile Banner -->
+<h1 align="center">👋 Hey, I’m Aser Ahmed (0xanubis)</h1>
+<h3 align="center">Security Researcher | OSINT | DFIR | CTF Player @HackTheBox | Penetration Tester | Bug Bounty Hunter @Hacker0x01</h3>
 
-<hr>
+---
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aser-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCkVcVqSr2uUqmm7J7UEFxog">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/0xanubiis">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://www.instagram.com/0xanubis/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+## 🧑‍💻 About Me  
+- 🔍 Passionate about **offensive security** & **open-source intelligence**  
+- 🎯 Active **CTF Player** (HackTheBox & TryHackMe)  
+- 📖 Content writer in cybersecurity & digital forensics  
+- 🐞 Bug bounty hunter with focus on **web exploitation & reconnaissance**  
+- 🛠 Currently sharpening my skills in **reverse engineering & malware analysis**
 
-<hr>
+---
 
-🚀About Me:
+## 🛠️ Toolbox & Skills
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![OSINT](https://img.shields.io/badge/OSINT-111927?style=for-the-badge&logo=protonmail&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-I am a dedicated bug hunter and penetration tester with over three years of experience in identifying and mitigating security vulnerabilities across diverse applications and systems. My passion for cybersecurity drives me to stay ahead of the curve in an ever-evolving landscape, where I employ a combination of manual testing and automated tools to uncover potential threats.
+---
 
-Throughout my career, I have collaborated with development teams to enhance security protocols, ensuring robust defenses against malicious attacks. My expertise spans web applications, APIs, and network infrastructures, allowing me to deliver comprehensive security assessments that provide actionable insights.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xanubis&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xanubis&theme=dark&hide_border=false" alt="streak" />
+</p>
 
-I thrive in challenging environments and am committed to continuous learning, regularly participating in industry conferences and training sessions. My goal is not only to protect systems but also to educate teams on best practices, fostering a culture of security awareness.
+---
 
-When I'm not hunting for bugs, you can find me contributing to open-source projects or sharing knowledge through workshops and online forums. I’m excited to connect with like-minded professionals and explore new opportunities in the cybersecurity field!
+## 🏴 HackTheBox & HackerOne
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox)](YOUR_HTB_PROFILE_LINK)  
+[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone)](YOUR_H1_PROFILE_LINK)
 
-<hr>
+---
 
-👨‍💻Experience:
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aser-ahmed/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/0xanubiis)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
 
-1-Conducted comprehensive penetration tests on web applications, mobile applications, and network infrastructures, identifying vulnerabilities and providing actionable remediation strategies.
+---
 
-2-Developed detailed reports for clients, outlining findings, risk levels, and prioritized recommendations to enhance security posture.
-
-3-Collaborated with development teams to integrate security practices into the software development lifecycle, improving overall code quality and security awareness.
-
-4-Executed social engineering assessments to test organizational resilience against phishing and other human-centric attacks.
-
-5-Assisted in the creation and delivery of training workshops for internal teams, promoting best practices in cybersecurity and secure coding techniques.
-
-<hr>
-
-🛠Language & Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
-
-<hr>
-
-👨‍🎓My States:
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xanubiis&theme=dark&locale=ar" alt="GitHub Streak" /></a>
+<p align="center">⚡ “The quieter you become, the more you are able to hear.”</p>

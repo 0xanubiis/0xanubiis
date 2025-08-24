@@ -1,8 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/6c/6c8d8d5a1a3a6d35a9a8d2c5b57d17c2_w200.gif" alt="hacking gif" width="600"/>
-</p>
-
 <h1 align="center">👋 Hey, I’m Aser Ahmed (0xanubis)</h1>
 <h3 align="center">Security Researcher | OSINT | DFIR | CTF Player @HackTheBox | Penetration Tester | Bug Bounty Hunter</h3>
 
@@ -43,15 +39,14 @@
 ---
 
 ## 🏴 HackTheBox
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/0xanubiis)
+[![HackTheBox](https://www.hackthebox.com/badge/image/12345)](https://app.hackthebox.com/profile/1271683)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_LINK)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aser-ahmed/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/0xanubiis)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xanubis/)
 
 ---
 

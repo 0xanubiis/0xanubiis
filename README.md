@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <h1 align="center">👋 Hey, I’m Aser Ahmed (0xanubis)</h1>
-<h3 align="center">Security Researcher | OSINT | DFIR | CTF Player @HackTheBox | Penetration Tester | Bug Bounty Hunter</h3>
+<h3 align="center">Ex. Web Developer | Security Researcher | OSINT | DFIR | CTF Player @HackTheBox | Penetration Tester | Bug Bounty Hunter</h3>
 
 ---
 

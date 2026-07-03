@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I%E2%80%99m+Aser+Ahmed+(0xanubis);Ex.+Web+Developer;Security+Researcher;OSINT+%26+DFIR;CTF+Player+%40HackTheBox;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
----
-
 ## 🧑‍💻 About Me
 - 🔍 Passionate about **offensive security** & **open-source intelligence**  
 - 🎯 Active **CTF Player** – [HackTheBox: 0xanubiis](https://app.hackthebox.com/profile/1271683)  

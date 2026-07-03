@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 - 🔍 Passionate about **offensive security** & **open-source intelligence**  
-- 🎯 Active **CTF Player** – [HackTheBox: 0xanubiis](https://app.hackthebox.com/profile/1271683)  
+- 🎯 Active **CTF Player** – (HackTheBox: [0xanubiis](https://app.hackthebox.com/profile/0xanubiis))   
 - 📖 Content writer on cybersecurity & digital forensics  
 - 🐞 Exploring bug bounties & web exploitation  
 - 🛠 Currently sharpening **reverse engineering & malware analysis**

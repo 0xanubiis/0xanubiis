@@ -4,7 +4,6 @@
     <img src="https://www.gitskins.com/api/section/hero?username=0xanubiis&theme=github-dark" alt="0xanubiis hero section" />
   </picture>
 </p>
-## About Me
 
 <p align="center">
   <picture>
@@ -12,7 +11,6 @@
     <img src="https://www.gitskins.com/api/section/about?username=0xanubiis&theme=github-dark" alt="0xanubiis about section" />
   </picture>
 </p>
-## Skills
 
 <p align="center">
   <picture>
@@ -20,7 +18,6 @@
     <img src="https://www.gitskins.com/api/section/stack?username=0xanubiis&theme=github-dark" alt="0xanubiis stack section" />
   </picture>
 </p>
-## GitHub Stats
 
 <p align="center">
   <picture>
@@ -28,7 +25,6 @@
     <img src="https://www.gitskins.com/api/section/stats?username=0xanubiis&theme=github-dark" alt="0xanubiis stats section" />
   </picture>
 </p>
-## Projects
 
 <p align="center">
   <picture>
@@ -36,7 +32,6 @@
     <img src="https://www.gitskins.com/api/section/projects?username=0xanubiis&theme=github-dark" alt="0xanubiis projects section" />
   </picture>
 </p>
-## Connect
 
 <p align="center">
   <picture>

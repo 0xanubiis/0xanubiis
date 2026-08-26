@@ -1,5 +1,3 @@
-## Header
-
 Hi, I'm **0xanubiis**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">

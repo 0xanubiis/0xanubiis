@@ -31,12 +31,12 @@ My research specializes in deep-dive code auditing, including request forgery (S
 | **2026** | **Aiven (rohmu)** | **Crypto Integrity Bypass** (HMAC fail-open) allowing silent backup tampering. | High (P3) |
 | **2026** | **Coinbase (Wallet SDK)** | **Access Control Bypass** allowing blind-signing via `wallet_invokeMethod`. | High |
 | **2026** | **TensorFlow Lite Micro** | **Integer Overflow** in `ElementCount()` leading to Heap Buffer Overflow (DoS/RCE). | Critical (9.8) |
-| **2025** | **Istio** (CNCF) | **SSRF** in WasmPlugin HTTP fetcher. *(Fixed in [#61112](https://github.com/istio/istio/pull/61112), credited in [release notes](https://github.com/istio/istio/pull/61141))* | High (7.5) |
-| **2025** | **Turborepo** (Vercel) | **Token Exfiltration** through repo-controlled remote-cache URLs. | High (8.1) |
-| **2025** | **Backman** | **Authentication Bypass** via empty default credentials. | Critical (9.8) |
-| **2025** | **Aiven (pghoard)** | **Symlink Bypass** of existing CVE fix + Tablespace Path Traversal (RCE). | High |
-| **2025** | **Angular Service Worker** | **Novel CSRF Vector** bypassing SameSite, Origin checks, and CSRF tokens. | Medium |
-| **2025** | **LaunchDarkly (Go SDK)** | **Stack Overflow (DoC)** via unbounded JSON recursion in FDv1 parsing. | High (7.5) |
+| **2026** | **Istio** (CNCF) | **SSRF** in WasmPlugin HTTP fetcher. *(Fixed in [#61112](https://github.com/istio/istio/pull/61112), credited in [release notes](https://github.com/istio/istio/pull/61141))* | High (7.5) |
+| **2026** | **Turborepo** (Vercel) | **Token Exfiltration** through repo-controlled remote-cache URLs. | High (8.1) |
+| **2026** | **Backman** | **Authentication Bypass** via empty default credentials. | Critical (9.8) |
+| **2026** | **Aiven (pghoard)** | **Symlink Bypass** of existing CVE fix + Tablespace Path Traversal (RCE). | High |
+| **2026** | **Angular Service Worker** | **Novel CSRF Vector** bypassing SameSite, Origin checks, and CSRF tokens. | Medium |
+| **2026** | **LaunchDarkly (Go SDK)** | **Stack Overflow (DoC)** via unbounded JSON recursion in FDv1 parsing. | High (7.5) |
 
 *All findings were reported through responsible disclosure channels (MSRC, Bugcrowd, HackerOne, or direct maintainer contact).*
 
